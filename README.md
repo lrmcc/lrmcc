@@ -7,15 +7,12 @@
 </picture>
 
 ## About 👱
-- Software and DevOps Engineer.
-- 2+ years professional experience.
-- Bachelor of Science in Computer Science.
-- Currently lives in the Tokyo area.
+- Software and DevOps Engineer living in the Tokyo area.
+- Building public projects to showcase full-stack abilities. 
+- Open to collaborating on projects that are a good fit.
 
 ## Contact 📫
-- I can be reached via lukermcconnell@gmail.com or the contact form on my website.
-
-### [Visit my website to learn more](https://lukemcconnell.net/)
+- I can be reached via lukermcconnell@gmail.com or the [contact form on my website](https://lukemcconnell.net/about.html#Contact).
 
 <p align="center"> 
   Visitor count<br>
