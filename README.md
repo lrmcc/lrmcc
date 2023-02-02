@@ -1,17 +1,17 @@
 
 
 # **⚡ Hi, I'm Luke ⚡**
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lrmcc/count.svg" />
+</p>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="/code-negative.gif">
  <source media="(prefers-color-scheme: light)" srcset="/code.gif">
  <img alt="Coding sequence" src="/code.gif">
 </picture>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lrmcc/count.svg" />
-</p>
+
 
 ## About 👱
 - Software and DevOps Engineer.
