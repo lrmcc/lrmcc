@@ -7,8 +7,8 @@
 </picture>
 
 ## About 👱
-- Software and DevOps Engineer living in the Tokyo area.
-- Building public projects to showcase full-stack abilities. 
+- Professional Software and DevOps Engineer living in the Tokyo area.
+- Building public projects to showcase development abilities. 
 - Open to collaborating on projects that are a good fit.
 
 ## Contact 📫
