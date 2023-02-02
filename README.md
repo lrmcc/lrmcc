@@ -1,16 +1,27 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="/code-negative.gif">
+ <source media="(prefers-color-scheme: light)" srcset="/code.gif">
+ <img alt="Coding sequence" src="/code.gif">
+</picture>
 
-<!--
-**lrmcc/lrmcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **⚡ Hi, I'm Luke ⚡**
+![Visitor Count](https://profile-counter.glitch.me/lrmcc/count.svg)
+## About 👱
+- Software and DevOps Engineer.
+- 2+ years professional experience.
+- Bachelor of Science in Computer Science.
+- Currently lives in the Tokyo area.
 
-Here are some ideas to get you started:
+## In Progress 🚧
+- [Shoot Messenger](https://github.com/lrmcc/Shoot_Messenger)
+- [Leader Keeper](https://github.com/lrmcc/Leader_Keeper)
+- [Personal Website](https://github.com/lrmcc/lukemcconnell.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Past Projects 🚧
+- [Space Game](https://github.com/lrmcc/Space_Game) - [Play here](https://lukemcconnell.net/projects/space_game.html)
+
+## Contact 📫
+- I can be reached via lukermcconnell@gmail.com or the contact form on my website.
+
+### [Visit my website to learn more](https://lukemcconnell.net/)
+
