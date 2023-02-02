@@ -1,4 +1,4 @@
-# **⚡ Hi, I'm Luke ⚡**
+# **⚡ Hi, I'm Luke! ⚡**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="/code-negative.gif">
