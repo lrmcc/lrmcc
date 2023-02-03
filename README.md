@@ -6,14 +6,11 @@
  <img alt="Coding sequence" src="/code-neg.gif">
 </picture>
 
-## About 👱
+## About
 - Professional Software and DevOps Engineer living in the Tokyo area.
 - Building public projects to showcase development abilities. 
 - Open to collaborating on projects that are a good fit.
-
-## Contact 📫
-- Email: <lukermcconnell@gmail.com>.
-- [Contact form](https://lukemcconnell.net/about.html#Contact).
+- Reach out via [contact form](https://lukemcconnell.net/about.html#Contact).
 
 <p align="center"> 
   Visitor count<br>
