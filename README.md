@@ -10,7 +10,7 @@
 - Professional DevSecOps Engineer living in the Tokyo area.
 - Building public projects to showcase development abilities. 
 - Open to collaborating on projects that are a good fit.
-- Reach out via [contact form](https://lukemcconnell.net/about.html#Contact).
+- Reach out via [contact form](https://lukemcconnell.net/#contact).
 
 <p align="center"> 
   Visitor count<br>
