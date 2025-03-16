@@ -7,7 +7,7 @@
 </picture>
 
 ## About
-- Professional DevSecOps Engineer living in the Tokyo area.
+- Professional DevSecOps Engineer living in Colorado.
 - Building public projects to showcase development abilities. 
 - Open to collaborating on projects that are a good fit.
 - Reach out via [contact form](https://lukemcconnell.net/#contact).
